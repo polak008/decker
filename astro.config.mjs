@@ -27,6 +27,6 @@ export default defineConfig({
     plugins: [tailwindcss()]
   },
   site: "https://polak008.github.io",
-  base: "/decker",
+  base: "/decker/",
   integrations: [sitemap()]
 });

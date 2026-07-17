@@ -20,6 +20,6 @@ import Link from "../components/elements/Link.astro";
         titleHeading="404.exe"
     >
         <Text variant={'normal'} class="text-base-400">The page you are trying to access seems to be broken or doesn't exist! :(</Text>
-        <Link variant={'inline'} href="/" text="Go back to the homepage" />
+        <Link variant={'inline'} href={import.meta.env.BASE_URL} text="Go back to the homepage" />
     </Section>
 </Layout>
