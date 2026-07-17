@@ -1,0 +1,75 @@
+- id: 1
+  title: Cloud & Infrastructure
+  items:
+    - AWS EC2
+    - AWS S3
+    - AWS RDS
+    - Route 53
+    - ACM
+    - Auto Scaling
+    - Load Balancer
+    - Lightsail
+    - CloudFront
+    - VPC
+    - IAM
+- id: 2
+  title: IaC & Automation
+  items:
+    - Terraform
+    - Ansible
+    - Helm
+    - CloudFormation
+    - Packer
+- id: 3
+  title: CI/CD & GitOps
+  items:
+    - Jenkins
+    - GitLab CI/CD
+    - GitHub Actions
+    - ArgoCD
+    - GitOps
+- id: 4
+  title: Containers & Orchestration
+  items:
+    - Kubernetes
+    - Docker
+    - Docker Compose
+    - Kustomize
+    - k9s
+- id: 5
+  title: Monitoring & Observability
+  items:
+    - Prometheus
+    - Grafana
+    - ELK Stack
+    - Loki
+    - Alertmanager
+- id: 6
+  title: Security & Compliance
+  items:
+    - SonarQube
+    - Trivy
+    - Vault
+    - SSL/TLS
+- id: 7
+  title: Web Servers & Proxy
+  items:
+    - Nginx
+    - Apache
+    - HAProxy
+- id: 8
+  title: Databases
+  items:
+    - MySQL
+    - PostgreSQL
+    - MongoDB
+    - Redis
+- id: 9
+  title: Languages & Scripting
+  items:
+    - Bash
+    - Python
+    - Java
+    - C / C++
+    - YAML
+    - HCL

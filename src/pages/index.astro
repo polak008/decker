@@ -1,0 +1,19 @@
+---
+// layout
+import Layout from "../layout/Layout.astro"
+
+// components
+import Intro from "../components/sections/Intro.astro";
+import Heading from "../components/elements/Heading.astro";
+import FeaturedProjects from "../components/sections/FeaturedProjects.astro";
+import LatestArticles from "../components/sections/LatestArticles.astro";
+---
+
+<Layout
+    title="Home"
+    description="Astro Portfolio theme with a retro tech dark design"
+>
+    <Intro />
+    <FeaturedProjects />
+    <LatestArticles />
+</Layout>

@@ -1,0 +1,8 @@
+- id: 1
+  title: Junior DevOps Engineer — SIMEC System Ltd.
+  timeline: Feb 2025 — Present
+  description: Created and managed on-premises projects using self-managed Kubernetes clusters across multiple environments, implementing infrastructure-as-code practices. Implemented and maintained CI/CD pipelines with GitLab CI/CD and Jenkins for automated build, test, and deployment processes across staging and production. Deployed and managed multiple client and in-house projects across various servers, ensuring reliable infrastructure, monitoring, and smooth operations. Configured and maintained Nginx reverse proxies, load balancers, and SSL/TLS certificate management for production services.
+- id: 2
+  title: Trainee Software Engineer — DevOps & Cloud — BJIT Group
+  timeline: Apr 2023 — Aug 2023
+  description: Developed, optimized, and deployed four production-ready projects using modern DevOps tools and CI/CD workflows. Contributed to multiple mini-projects demonstrating version control, container orchestration, and cloud infrastructure provisioning. Gained hands-on experience with Scrum, Agile methodologies, and DevOps practices within a professional cross-functional team.
